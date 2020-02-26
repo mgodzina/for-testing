@@ -7,4 +7,4 @@ st = str(56)
 
 x = 0
 
-print(test1)
+print(test1 + 'new')
